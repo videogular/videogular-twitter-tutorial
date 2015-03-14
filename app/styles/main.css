@@ -1,0 +1,51 @@
+.videogular-container {
+  width: 100%;
+  height: 320px;
+  margin: auto; }
+
+.tweets-container {
+  width: 100%;
+  height: 320px;
+  margin-top: 10px;
+  overflow: auto;
+  border: 2px #8EC1DA solid;
+  box-sizing: border-box; }
+
+vg-tweet {
+  display: block;
+  cursor: pointer;
+  font-family: "Helvetica Neue Light", "HelveticaNeue-Light", "Helvetica Neue", Calibri, Helvetica, Arial; }
+  vg-tweet article {
+    padding: 5px; }
+    vg-tweet article header {
+      position: relative; }
+      vg-tweet article header h4 {
+        margin: 0; }
+      vg-tweet article header .user {
+        display: inline-block;
+        margin: 0;
+        height: 48px;
+        top: 5px;
+        bottom: 0;
+        left: 63px;
+        position: absolute; }
+  vg-tweet:hover {
+    background-color: #EEEEEE; }
+  vg-tweet.selected {
+    background-color: #C0DEED; }
+  vg-tweet.completed {
+    opacity: 0.5; }
+
+.animable {
+  -webkit-transition: 0.5s linear all;
+  transition: 0.5s ease-out all; }
+
+@media (min-width: 768px) {
+  .videogular-container {
+    width: 728px;
+    height: 409.5px; }
+    .videogular-container.audio {
+      width: 728px;
+      height: 50px; } }
+
+/*# sourceMappingURL=main.css.map */

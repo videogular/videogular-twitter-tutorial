@@ -1,0 +1,2052 @@
+[
+  {
+    "created_at": "Fri Feb 13 09:06:47 +0000 2015",
+    "id": 566161552467058700,
+    "id_str": "566161552467058688",
+    "text": "\"Video powers the most important content on the internet. Cats. And porn. But mostly cats.\" @elecash #ngnlconf",
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 10468662,
+      "id_str": "10468662",
+      "name": "William Groenendijk",
+      "screen_name": "evilnickname",
+      "location": "Amersfoort, NL",
+      "profile_location": null,
+      "description": "is bovengemiddeld en uitgesproken meningsloos, doet aan websites en linkse hobby's en kan niet lachen om humor. TV-ster in Finland.",
+      "url": "http://t.co/x7geHPW9k5",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/x7geHPW9k5",
+              "expanded_url": "http://evilnickname.org/",
+              "display_url": "evilnickname.org",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 202,
+      "friends_count": 138,
+      "listed_count": 12,
+      "created_at": "Thu Nov 22 14:54:56 +0000 2007",
+      "favourites_count": 47,
+      "utc_offset": 3600,
+      "time_zone": "Amsterdam",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 13824,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "B2B3B5",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/504144459/background.jpg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/504144459/background.jpg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/3499573549/37c3fe4ef0f64997b8ad316afa1f7880_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/3499573549/37c3fe4ef0f64997b8ad316afa1f7880_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/10468662/1402469124",
+      "profile_link_color": "55ACEE",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "D6DEE7",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 3,
+    "favorite_count": 2,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "ngnlconf",
+          "indices": [
+            101,
+            110
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "elecash",
+          "name": "Raúl Jiménez",
+          "id": 14684682,
+          "id_str": "14684682",
+          "indices": [
+            92,
+            100
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Feb 13 09:10:20 +0000 2015",
+    "id": 566162447619596300,
+    "id_str": "566162447619596288",
+    "text": "Roy Brondgeest from @TriventoIT on Reactive systems. #ngnlconf http://t.co/ybElW0Xk9e",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709019,
+      "id_str": "20709019",
+      "name": "Gert Hengeveld",
+      "screen_name": "GHengeveld",
+      "location": "Utrecht, The Netherlands",
+      "profile_location": null,
+      "description": "Full Stack Developer at @Xebia. Speaker. Blogger. Opinionated on #AngularJS and the web.",
+      "url": "https://t.co/p159KVJp2y",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/p159KVJp2y",
+              "expanded_url": "https://medium.com/opinionated-angularjs",
+              "display_url": "medium.com/opinionated-an…",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 502,
+      "friends_count": 575,
+      "listed_count": 24,
+      "created_at": "Thu Feb 12 19:36:57 +0000 2009",
+      "favourites_count": 14,
+      "utc_offset": 3600,
+      "time_zone": "Amsterdam",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 533,
+      "lang": "nl",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/481066720929386497/FI98cgu8_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/481066720929386497/FI98cgu8_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/20709019/1403530389",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        52.3765586,
+        4.9219381
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        4.9219381,
+        52.3765586
+      ]
+    },
+    "place": {
+      "id": "99cdab25eddd6bce",
+      "url": "https://api.twitter.com/1.1/geo/id/99cdab25eddd6bce.json",
+      "place_type": "city",
+      "name": "Amsterdam",
+      "full_name": "Amsterdam, North Holland",
+      "country_code": "NL",
+      "country": "Nederland",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.7288999,
+              52.2782266
+            ],
+            [
+              5.0792072,
+              52.2782266
+            ],
+            [
+              5.0792072,
+              52.4312289
+            ],
+            [
+              4.7288999,
+              52.4312289
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "retweet_count": 8,
+    "favorite_count": 5,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "ngnlconf",
+          "indices": [
+            53,
+            62
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "TriventoIT",
+          "name": "Trivento IT",
+          "id": 406898053,
+          "id_str": "406898053",
+          "indices": [
+            20,
+            31
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 566162434826989600,
+          "id_str": "566162434826989570",
+          "indices": [
+            63,
+            85
+          ],
+          "media_url": "http://pbs.twimg.com/media/B9tpvB0IcAIJx59.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/B9tpvB0IcAIJx59.jpg",
+          "url": "http://t.co/ybElW0Xk9e",
+          "display_url": "pic.twitter.com/ybElW0Xk9e",
+          "expanded_url": "http://twitter.com/GHengeveld/status/566162447619596288/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 255,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 450,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1024,
+              "h": 768,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 566162434826989600,
+          "id_str": "566162434826989570",
+          "indices": [
+            63,
+            85
+          ],
+          "media_url": "http://pbs.twimg.com/media/B9tpvB0IcAIJx59.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/B9tpvB0IcAIJx59.jpg",
+          "url": "http://t.co/ybElW0Xk9e",
+          "display_url": "pic.twitter.com/ybElW0Xk9e",
+          "expanded_url": "http://twitter.com/GHengeveld/status/566162447619596288/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 255,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 450,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1024,
+              "h": 768,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Feb 13 09:12:22 +0000 2015",
+    "id": 566162956019572740,
+    "id_str": "566162956019572736",
+    "text": "#ngnlconf talk about resilience against network loss in web apps has quite the turn up. http://t.co/vSg4dBb4mF",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1536252102,
+      "id_str": "1536252102",
+      "name": "Ruurd Moelker",
+      "screen_name": "ruurdm",
+      "location": "",
+      "profile_location": null,
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 29,
+      "friends_count": 62,
+      "listed_count": 0,
+      "created_at": "Fri Jun 21 11:02:51 +0000 2013",
+      "favourites_count": 14,
+      "utc_offset": 3600,
+      "time_zone": "Ljubljana",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 55,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000024558348/d47061c156d83bf6ef42c4c01def5bef_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000024558348/d47061c156d83bf6ef42c4c01def5bef_normal.jpeg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "ngnlconf",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 566162938520952800,
+          "id_str": "566162938520952832",
+          "indices": [
+            88,
+            110
+          ],
+          "media_url": "http://pbs.twimg.com/media/B9tqMWOIYAAhkJX.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/B9tqMWOIYAAhkJX.jpg",
+          "url": "http://t.co/vSg4dBb4mF",
+          "display_url": "pic.twitter.com/vSg4dBb4mF",
+          "expanded_url": "http://twitter.com/ruurdm/status/566162956019572736/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 255,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 450,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1024,
+              "h": 768,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 566162938520952800,
+          "id_str": "566162938520952832",
+          "indices": [
+            88,
+            110
+          ],
+          "media_url": "http://pbs.twimg.com/media/B9tqMWOIYAAhkJX.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/B9tqMWOIYAAhkJX.jpg",
+          "url": "http://t.co/vSg4dBb4mF",
+          "display_url": "pic.twitter.com/vSg4dBb4mF",
+          "expanded_url": "http://twitter.com/ruurdm/status/566162956019572736/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 255,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 450,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1024,
+              "h": 768,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Feb 13 09:13:50 +0000 2015",
+    "id": 566163325881684000,
+    "id_str": "566163325881683968",
+    "text": "We sort of underestimated the popularity of Roy's talk. Fully packed! #ngnlconf #AngularJS @TriventoIT http://t.co/Vpo53uXt8O",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20709019,
+      "id_str": "20709019",
+      "name": "Gert Hengeveld",
+      "screen_name": "GHengeveld",
+      "location": "Utrecht, The Netherlands",
+      "profile_location": null,
+      "description": "Full Stack Developer at @Xebia. Speaker. Blogger. Opinionated on #AngularJS and the web.",
+      "url": "https://t.co/p159KVJp2y",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/p159KVJp2y",
+              "expanded_url": "https://medium.com/opinionated-angularjs",
+              "display_url": "medium.com/opinionated-an…",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 502,
+      "friends_count": 575,
+      "listed_count": 24,
+      "created_at": "Thu Feb 12 19:36:57 +0000 2009",
+      "favourites_count": 14,
+      "utc_offset": 3600,
+      "time_zone": "Amsterdam",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 533,
+      "lang": "nl",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/481066720929386497/FI98cgu8_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/481066720929386497/FI98cgu8_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/20709019/1403530389",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        52.3765622,
+        4.9218063
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        4.9218063,
+        52.3765622
+      ]
+    },
+    "place": {
+      "id": "99cdab25eddd6bce",
+      "url": "https://api.twitter.com/1.1/geo/id/99cdab25eddd6bce.json",
+      "place_type": "city",
+      "name": "Amsterdam",
+      "full_name": "Amsterdam, North Holland",
+      "country_code": "NL",
+      "country": "Nederland",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.7288999,
+              52.2782266
+            ],
+            [
+              5.0792072,
+              52.2782266
+            ],
+            [
+              5.0792072,
+              52.4312289
+            ],
+            [
+              4.7288999,
+              52.4312289
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "ngnlconf",
+          "indices": [
+            70,
+            79
+          ]
+        },
+        {
+          "text": "AngularJS",
+          "indices": [
+            80,
+            90
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "TriventoIT",
+          "name": "Trivento IT",
+          "id": 406898053,
+          "id_str": "406898053",
+          "indices": [
+            91,
+            102
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 566163316167684100,
+          "id_str": "566163316167684096",
+          "indices": [
+            103,
+            125
+          ],
+          "media_url": "http://pbs.twimg.com/media/B9tqiVEIMAAJMgm.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/B9tqiVEIMAAJMgm.jpg",
+          "url": "http://t.co/Vpo53uXt8O",
+          "display_url": "pic.twitter.com/Vpo53uXt8O",
+          "expanded_url": "http://twitter.com/GHengeveld/status/566163325881683968/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 255,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 450,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1024,
+              "h": 768,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 566163316167684100,
+          "id_str": "566163316167684096",
+          "indices": [
+            103,
+            125
+          ],
+          "media_url": "http://pbs.twimg.com/media/B9tqiVEIMAAJMgm.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/B9tqiVEIMAAJMgm.jpg",
+          "url": "http://t.co/Vpo53uXt8O",
+          "display_url": "pic.twitter.com/Vpo53uXt8O",
+          "expanded_url": "http://twitter.com/GHengeveld/status/566163325881683968/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 255,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 450,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1024,
+              "h": 768,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Feb 13 09:14:00 +0000 2015",
+    "id": 566163369347260400,
+    "id_str": "566163369347260416",
+    "text": "What better place to talk about Bridge Builder than Netherlands, a place with over 1700 bridges close together. #ngnlconf @ngnlconf",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 27045985,
+      "id_str": "27045985",
+      "name": "Aaron Frost",
+      "screen_name": "js_dev",
+      "location": "Salt Lake City, UT",
+      "profile_location": null,
+      "description": "JavaScript, HTML/CSS, Nodejs, Father/Husband, Icefishing, Mormon",
+      "url": "http://t.co/6yZb1A8zo4",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/6yZb1A8zo4",
+              "expanded_url": "http://www.40win.com",
+              "display_url": "40win.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1966,
+      "friends_count": 416,
+      "listed_count": 100,
+      "created_at": "Fri Mar 27 17:01:56 +0000 2009",
+      "favourites_count": 3205,
+      "utc_offset": -25200,
+      "time_zone": "Mountain Time (US & Canada)",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 3575,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFF04D",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/460667350706962433/UCvQytmY_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/460667350706962433/UCvQytmY_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/27045985/1398666729",
+      "profile_link_color": "0099CC",
+      "profile_sidebar_border_color": "FFF8AD",
+      "profile_sidebar_fill_color": "F6FFD1",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 3,
+    "favorite_count": 5,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "ngnlconf",
+          "indices": [
+            112,
+            121
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "ngnlconf",
+          "name": "NG-NL",
+          "id": 2841883887,
+          "id_str": "2841883887",
+          "indices": [
+            122,
+            131
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Feb 13 09:24:12 +0000 2015",
+    "id": 566165933472104450,
+    "id_str": "566165933472104448",
+    "text": "If you wanna learn about the best @angularjs yet and meet @thoughtram - 3:15PM, side track! We have a surprise too! #ngnlconf",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 146878311,
+      "id_str": "146878311",
+      "name": "Pascal Precht ʕ•̫͡•ʔ",
+      "screen_name": "PascalPrecht",
+      "location": "Hanover, Germany",
+      "profile_location": null,
+      "description": "Developer Advocate, Father of angular-translate, also into @Web_Components and @Polymer. Vimthusiast that runs @thoughtram.",
+      "url": "http://t.co/b0y61JChKW",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/b0y61JChKW",
+              "expanded_url": "http://pascalprecht.github.io/about",
+              "display_url": "pascalprecht.github.io/about",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2079,
+      "friends_count": 459,
+      "listed_count": 122,
+      "created_at": "Sat May 22 15:41:38 +0000 2010",
+      "favourites_count": 2202,
+      "utc_offset": -10800,
+      "time_zone": "Greenland",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 16441,
+      "lang": "de",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/557638914194681856/AzdFKOj8_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/557638914194681856/AzdFKOj8_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/146878311/1421786537",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "ngnlconf",
+          "indices": [
+            116,
+            125
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "angularjs",
+          "name": "AngularJS",
+          "id": 202230373,
+          "id_str": "202230373",
+          "indices": [
+            34,
+            44
+          ]
+        },
+        {
+          "screen_name": "thoughtram",
+          "name": "thoughtram",
+          "id": 2370992766,
+          "id_str": "2370992766",
+          "indices": [
+            58,
+            69
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Feb 13 09:25:10 +0000 2015",
+    "id": 566166178482380800,
+    "id_str": "566166178482380800",
+    "text": "Also, @cburgdorf and I have Angular and thoughtram stickers :) come and find us! #ngnlconf",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 566165933472104450,
+    "in_reply_to_status_id_str": "566165933472104448",
+    "in_reply_to_user_id": 146878311,
+    "in_reply_to_user_id_str": "146878311",
+    "in_reply_to_screen_name": "PascalPrecht",
+    "user": {
+      "id": 146878311,
+      "id_str": "146878311",
+      "name": "Pascal Precht ʕ•̫͡•ʔ",
+      "screen_name": "PascalPrecht",
+      "location": "Hanover, Germany",
+      "profile_location": null,
+      "description": "Developer Advocate, Father of angular-translate, also into @Web_Components and @Polymer. Vimthusiast that runs @thoughtram.",
+      "url": "http://t.co/b0y61JChKW",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/b0y61JChKW",
+              "expanded_url": "http://pascalprecht.github.io/about",
+              "display_url": "pascalprecht.github.io/about",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2079,
+      "friends_count": 459,
+      "listed_count": 122,
+      "created_at": "Sat May 22 15:41:38 +0000 2010",
+      "favourites_count": 2202,
+      "utc_offset": -10800,
+      "time_zone": "Greenland",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 16441,
+      "lang": "de",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/557638914194681856/AzdFKOj8_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/557638914194681856/AzdFKOj8_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/146878311/1421786537",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "ngnlconf",
+          "indices": [
+            81,
+            90
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "cburgdorf",
+          "name": "Christoph Burgdorf",
+          "id": 16281891,
+          "id_str": "16281891",
+          "indices": [
+            6,
+            16
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Feb 13 09:28:53 +0000 2015",
+    "id": 566167115242418200,
+    "id_str": "566167115242418176",
+    "text": "@AArshanskaya is putting a lot of &lt;3 into our #ngnlconf speakers t-shirts http://t.co/XImyDnhW3A",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 1171880996,
+    "in_reply_to_user_id_str": "1171880996",
+    "in_reply_to_screen_name": "AArshanskaya",
+    "user": {
+      "id": 934224026,
+      "id_str": "934224026",
+      "name": "Carmen Popoviciu",
+      "screen_name": "CarmenPopoviciu",
+      "location": "",
+      "profile_location": null,
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 607,
+      "friends_count": 194,
+      "listed_count": 18,
+      "created_at": "Thu Nov 08 11:01:43 +0000 2012",
+      "favourites_count": 554,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 612,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/3465736275/e6c51a0587a7b57638dbbbda281fa90f_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/3465736275/e6c51a0587a7b57638dbbbda281fa90f_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/934224026/1415709848",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 3,
+    "favorite_count": 3,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "ngnlconf",
+          "indices": [
+            49,
+            58
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "AArshanskaya",
+          "name": "AlexandraArshanskaya",
+          "id": 1171880996,
+          "id_str": "1171880996",
+          "indices": [
+            0,
+            13
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 566167109752074240,
+          "id_str": "566167109752074241",
+          "indices": [
+            77,
+            99
+          ],
+          "media_url": "http://pbs.twimg.com/media/B9tt_JRIMAERDc6.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/B9tt_JRIMAERDc6.jpg",
+          "url": "http://t.co/XImyDnhW3A",
+          "display_url": "pic.twitter.com/XImyDnhW3A",
+          "expanded_url": "http://twitter.com/CarmenPopoviciu/status/566167115242418176/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 606,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 592,
+              "h": 1056,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 592,
+              "h": 1056,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 566167109752074240,
+          "id_str": "566167109752074241",
+          "indices": [
+            77,
+            99
+          ],
+          "media_url": "http://pbs.twimg.com/media/B9tt_JRIMAERDc6.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/B9tt_JRIMAERDc6.jpg",
+          "url": "http://t.co/XImyDnhW3A",
+          "display_url": "pic.twitter.com/XImyDnhW3A",
+          "expanded_url": "http://twitter.com/CarmenPopoviciu/status/566167115242418176/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 606,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 592,
+              "h": 1056,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 592,
+              "h": 1056,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Feb 13 09:31:18 +0000 2015",
+    "id": 566167722057146400,
+    "id_str": "566167722057146368",
+    "text": "Incredible talk by @js_dev about open source community at #ngnlconf! Super inspiring.",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 62885146,
+      "id_str": "62885146",
+      "name": "Shahar Talmi",
+      "screen_name": "shahata",
+      "location": "Tel Aviv-Yafo, Israel",
+      "profile_location": null,
+      "description": "Suffers from a rare condition of the hyper-achiever with no direction and tendency to over complicate situations syndrome (HAND TOSS)",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 168,
+      "friends_count": 358,
+      "listed_count": 7,
+      "created_at": "Tue Aug 04 18:10:08 +0000 2009",
+      "favourites_count": 43,
+      "utc_offset": 7200,
+      "time_zone": "Jerusalem",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 224,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/566169122929512448/weL02WSN_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/566169122929512448/weL02WSN_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/62885146/1373661314",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 2,
+    "favorite_count": 3,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "ngnlconf",
+          "indices": [
+            58,
+            67
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "js_dev",
+          "name": "Aaron Frost",
+          "id": 27045985,
+          "id_str": "27045985",
+          "indices": [
+            19,
+            26
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": true,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Feb 13 09:32:02 +0000 2015",
+    "id": 566167907835863040,
+    "id_str": "566167907835863040",
+    "text": "Psst.. there are flyers floating around at #ngnlconf that get you the Build Your Own AngularJS book for free",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 14157530,
+      "id_str": "14157530",
+      "name": "Tero Parviainen",
+      "screen_name": "teropa",
+      "location": "Helsinki",
+      "profile_location": null,
+      "description": "Independent contractor. Writing Build Your Own AngularJS. Organized @clojurecup, twice.",
+      "url": "http://t.co/9IANaZa0W3",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/9IANaZa0W3",
+              "expanded_url": "http://teropa.info",
+              "display_url": "teropa.info",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1668,
+      "friends_count": 2000,
+      "listed_count": 85,
+      "created_at": "Sun Mar 16 14:02:54 +0000 2008",
+      "favourites_count": 1152,
+      "utc_offset": 7200,
+      "time_zone": "Helsinki",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 8947,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2732329711/3445d3d345ba841d248a9cdf0a18e687_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2732329711/3445d3d345ba841d248a9cdf0a18e687_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14157530/1401468861",
+      "profile_link_color": "0E005F",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        52.37670182,
+        4.92198097
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        4.92198097,
+        52.37670182
+      ]
+    },
+    "place": {
+      "id": "99cdab25eddd6bce",
+      "url": "https://api.twitter.com/1.1/geo/id/99cdab25eddd6bce.json",
+      "place_type": "city",
+      "name": "Amsterdam",
+      "full_name": "Amsterdam, North Holland",
+      "country_code": "NL",
+      "country": "Nederland",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.7288999,
+              52.2782266
+            ],
+            [
+              5.0792072,
+              52.2782266
+            ],
+            [
+              5.0792072,
+              52.4312289
+            ],
+            [
+              4.7288999,
+              52.4312289
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "retweet_count": 4,
+    "favorite_count": 1,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "ngnlconf",
+          "indices": [
+            43,
+            52
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Feb 13 09:32:17 +0000 2015",
+    "id": 566167968430960640,
+    "id_str": "566167968430960640",
+    "text": "Very much looking forward to show off the best angular yet with my friend @PascalPrecht at the side track later! Meet you there! #ngnlconf",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 16281891,
+      "id_str": "16281891",
+      "name": "Christoph Burgdorf",
+      "screen_name": "cburgdorf",
+      "location": "Hannover / Germany",
+      "profile_location": null,
+      "description": "Software gardener, growing stuff that kicks ass. Favorite plants: JavaScript, C#, Rust, Go, Functional Programming, Reactive Programming. Also @thoughtram",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 764,
+      "friends_count": 520,
+      "listed_count": 41,
+      "created_at": "Sun Sep 14 10:52:51 +0000 2008",
+      "favourites_count": 1358,
+      "utc_offset": 3600,
+      "time_zone": "Ljubljana",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 12994,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/3036187/NATURE-RiceNotGrass_1280x1024.jpg",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/3036187/NATURE-RiceNotGrass_1280x1024.jpg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/515265767596511232/7F8Hvy81_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/515265767596511232/7F8Hvy81_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/16281891/1401490723",
+      "profile_link_color": "0000FF",
+      "profile_sidebar_border_color": "87BC44",
+      "profile_sidebar_fill_color": "E0FF92",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "ngnlconf",
+          "indices": [
+            129,
+            138
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "PascalPrecht",
+          "name": "Pascal Precht ʕ•̫͡•ʔ",
+          "id": 146878311,
+          "id_str": "146878311",
+          "indices": [
+            74,
+            87
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Feb 13 09:34:13 +0000 2015",
+    "id": 566168454257201150,
+    "id_str": "566168454257201152",
+    "text": "Angular-translate mentioned in the videogular talk \\o/ #ngnlconf &lt;3",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 146878311,
+      "id_str": "146878311",
+      "name": "Pascal Precht ʕ•̫͡•ʔ",
+      "screen_name": "PascalPrecht",
+      "location": "Hanover, Germany",
+      "profile_location": null,
+      "description": "Developer Advocate, Father of angular-translate, also into @Web_Components and @Polymer. Vimthusiast that runs @thoughtram.",
+      "url": "http://t.co/b0y61JChKW",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/b0y61JChKW",
+              "expanded_url": "http://pascalprecht.github.io/about",
+              "display_url": "pascalprecht.github.io/about",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2079,
+      "friends_count": 459,
+      "listed_count": 122,
+      "created_at": "Sat May 22 15:41:38 +0000 2010",
+      "favourites_count": 2202,
+      "utc_offset": -10800,
+      "time_zone": "Greenland",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 16441,
+      "lang": "de",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/557638914194681856/AzdFKOj8_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/557638914194681856/AzdFKOj8_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/146878311/1421786537",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "ngnlconf",
+          "indices": [
+            55,
+            64
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Feb 13 09:38:27 +0000 2015",
+    "id": 566169521338470400,
+    "id_str": "566169521338470400",
+    "text": "Awesome! #konamicode reference in @RoyBrondgeest 's presentation. #ngnlconf",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 134901804,
+      "id_str": "134901804",
+      "name": "Patrick Kraaij",
+      "screen_name": "patrickkraaij",
+      "location": "The Netherlands",
+      "profile_location": null,
+      "description": "Front end Developer with a passion for Open Source. (Retro) Gamer. XboxLive&PSN: TympanicScroll",
+      "url": "http://t.co/kI8mylewAy",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/kI8mylewAy",
+              "expanded_url": "http://www.patrickkraaij.nl",
+              "display_url": "patrickkraaij.nl",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 147,
+      "friends_count": 228,
+      "listed_count": 17,
+      "created_at": "Mon Apr 19 19:47:40 +0000 2010",
+      "favourites_count": 98,
+      "utc_offset": 3600,
+      "time_zone": "Amsterdam",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 1536,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/836145633/patrickzeester_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/836145633/patrickzeester_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/134901804/1385046118",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "konamicode",
+          "indices": [
+            9,
+            20
+          ]
+        },
+        {
+          "text": "ngnlconf",
+          "indices": [
+            66,
+            75
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "RoyBrondgeest",
+          "name": "Roy Brondgeest",
+          "id": 918463182,
+          "id_str": "918463182",
+          "indices": [
+            34,
+            48
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Feb 13 09:43:12 +0000 2015",
+    "id": 566170715179986940,
+    "id_str": "566170715179986945",
+    "text": "Cupcakes are ready! #ngnlconf #cupcakes http://t.co/EFXbetlMCc",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2841883887,
+      "id_str": "2841883887",
+      "name": "NG-NL",
+      "screen_name": "ngnlconf",
+      "location": "Amsterdam",
+      "profile_location": null,
+      "description": "The AngularJS conference in Amsterdam, The Netherlands. 13th of February, 2015",
+      "url": "http://t.co/vrhw5StJui",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/vrhw5StJui",
+              "expanded_url": "http://www.ng-nl.org/",
+              "display_url": "ng-nl.org",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 294,
+      "friends_count": 74,
+      "listed_count": 7,
+      "created_at": "Thu Oct 23 13:39:07 +0000 2014",
+      "favourites_count": 20,
+      "utc_offset": 3600,
+      "time_zone": "Amsterdam",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 128,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/525282718003654657/rvtRJoMD_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/525282718003654657/rvtRJoMD_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2841883887/1414089803",
+      "profile_link_color": "DD2E44",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 2,
+    "favorite_count": 3,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "ngnlconf",
+          "indices": [
+            20,
+            29
+          ]
+        },
+        {
+          "text": "cupcakes",
+          "indices": [
+            30,
+            39
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 566170694224846850,
+          "id_str": "566170694224846849",
+          "indices": [
+            40,
+            62
+          ],
+          "media_url": "http://pbs.twimg.com/media/B9txPyeCIAExeCs.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/B9txPyeCIAExeCs.jpg",
+          "url": "http://t.co/EFXbetlMCc",
+          "display_url": "pic.twitter.com/EFXbetlMCc",
+          "expanded_url": "http://twitter.com/ngnlconf/status/566170715179986945/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 255,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 450,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1024,
+              "h": 768,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 566170694224846850,
+          "id_str": "566170694224846849",
+          "indices": [
+            40,
+            62
+          ],
+          "media_url": "http://pbs.twimg.com/media/B9txPyeCIAExeCs.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/B9txPyeCIAExeCs.jpg",
+          "url": "http://t.co/EFXbetlMCc",
+          "display_url": "pic.twitter.com/EFXbetlMCc",
+          "expanded_url": "http://twitter.com/ngnlconf/status/566170715179986945/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 255,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 450,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1024,
+              "h": 768,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "possibly_sensitive_appealable": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Feb 13 09:43:48 +0000 2015",
+    "id": 566170868045602800,
+    "id_str": "566170868045602817",
+    "text": "How much amazing Videogular is? Good shit! :D #ngnlconf",
+    "source": "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 18583022,
+      "id_str": "18583022",
+      "name": "Oliver Verver",
+      "screen_name": "oliverver",
+      "location": "Utrecht",
+      "profile_location": null,
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 155,
+      "friends_count": 161,
+      "listed_count": 11,
+      "created_at": "Sat Jan 03 17:48:47 +0000 2009",
+      "favourites_count": 21,
+      "utc_offset": 3600,
+      "time_zone": "Amsterdam",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 987,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "B2DFDA",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1092196046/Grenoble_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1092196046/Grenoble_normal.jpg",
+      "profile_link_color": "93A644",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "ngnlconf",
+          "indices": [
+            46,
+            55
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  }
+
+]
